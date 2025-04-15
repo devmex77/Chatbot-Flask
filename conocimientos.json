@@ -1,0 +1,18 @@
+[
+    {"message": "hola", "answer": "¡Hola! ¿Cómo estás?"},
+    {"message": "cómo estás", "answer": "Estoy bien, gracias por preguntar. ¿Y tú?"},
+    {"message": "qué haces", "answer": "Estoy aquí para ayudarte. ¿En qué puedo asistirte?"},
+    {"message": "cómo te llamas", "answer": "Soy tu asistente virtual. ¿Cómo puedo ayudarte hoy?"},
+    {"message": "qué puedes hacer", "answer": "Puedo responder preguntas, aprender cosas nuevas y ayudarte con información."},
+    {"message": "cuál es tu propósito", "answer": "Mi propósito es asistirte y hacerte la vida más fácil."},
+    {"message": "gracias", "answer": "¡De nada! Si necesitas algo más, aquí estaré."},
+    {"message": "adiós", "answer": "¡Hasta luego! Que tengas un buen día."},
+    {"message": "qué día es hoy", "answer": "Hoy es un gran día. Pero si quieres la fecha exacta, puedes preguntarme."},
+    {"message": "qué hora es", "answer": "No tengo un reloj integrado, pero puedes verificar en tu dispositivo."},
+    {"message": "dime un chiste", "answer": "¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter."},
+    {"message": "te gusta la música", "answer": "No puedo escuchar música, pero dime, ¿cuál es tu canción favorita?"},
+    {"message": "cuál es tu comida favorita", "answer": "No como, pero si pudiera, ¡probablemente me gustaría la pizza!"},
+    {"message": "te gusta el fútbol", "answer": "No juego fútbol, pero dime, ¿cuál es tu equipo favorito?"},
+    {"message": "tienes sentimientos", "answer": "No tengo emociones, pero siempre trato de responder con amabilidad."},
+    {"message": "qué opinas de la inteligencia artificial", "answer": "Creo que la inteligencia artificial puede ser una gran herramienta para ayudar a las personas."}
+] 
