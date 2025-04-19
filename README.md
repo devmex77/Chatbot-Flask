@@ -36,9 +36,10 @@ n8n
 
 ## Crea un entorno virtual (opcional pero recomendado):
 
-python -m venv venv
+python -m venv venv  
 
-source venv/bin/activate  # En Windows: venv\Scripts\activate
+# Activar entorno virtual en Windows: 
+venv\Scripts\activate
 
 ## Instala las dependencias:
 
