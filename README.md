@@ -30,7 +30,7 @@ n8n
 🛠️ Instalación
 ## Clona este repositorio:
 
-`git clone https://github.com/tu-usuario/chatbot-asistente-inteligente.git`
+`git clone https://github.com/devmex77/Chatbot-Flask.git`
 
 `cd chatbot-asistente-inteligente`
 
