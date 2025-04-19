@@ -1,6 +1,9 @@
 # 🤖 ChatBot Asistente Inteligente
 
-Bienvenido a ChatBot Asistente Inteligente, un asistente conversacional diseñado para ayudarte con tareas, responder preguntas y facilitar la interacción con tus sistemas o bases de datos. Este proyecto busca ofrecer una experiencia conversacional natural, útil y extensible para distintos entornos.
+Bienvenido a ChatBot Asistente Inteligente, un asistente conversacional diseñado para ayudarte con tareas, responder preguntas y facilitar la interacción con tus sistemas o bases de datos. Este proyecto busca ofrecer una experiencia conversacional natural, útil y extensible para distintos entornos, que funciona localmente, es decir no requiere
+servicios de terceros como openai, google, meta, etc.
+
+Dentro de los objetivos que se busca integrar en el proyecto se encuentran las siguientes funcionalidades:
 
 # 🌟 Características
 
