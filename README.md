@@ -60,5 +60,4 @@ Mejorar la documentación
 
 Por favor, abre un issue o haz un pull request 🛠️
 
-✨ Autor
-Desarrollado con 💙 por 🦝LuchoDev
+✨ By: 🦝LuchoDev
