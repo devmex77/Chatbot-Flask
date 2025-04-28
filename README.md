@@ -23,11 +23,16 @@ Dentro de los objetivos que se busca integrar en el proyecto se encuentran las s
 
 # Herramientas del Proyecto
 Python / Node.js	Backend del chatbot
+
 Flask / Express	Framework web
+
 HTML/CSS + JS	Interfaz (Frontend)
+
 SQLite / PostgreSQL	Base de datos
+
 n8n 
-🛠️ Instalación
+
+# 🛠️ Instalación
 ## Clona este repositorio:
 
 `git clone https://github.com/devmex77/Chatbot-Flask.git`
@@ -36,18 +41,18 @@ n8n
 
 ## Crea un entorno virtual (opcional pero recomendado):
 
-python -m venv venv  
+`python -m venv venv`  
 
 # Activar entorno virtual en Windows: 
-venv\Scripts\activate
+`venv\Scripts\activate`
 
 ## Instala las dependencias:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Ejecuta la app:
 
-flask run
+`flask run`
 
 Abre tu navegador en http://localhost:5000 para interactuar con el bot.
 
